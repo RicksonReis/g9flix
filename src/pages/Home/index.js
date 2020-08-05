@@ -37,7 +37,7 @@ function Home() {
               <BannerMain
                 videoTitle={dadosIniciais[0].videos[0].titulo}
                 url={dadosIniciais[0].videos[0].url}
-                videoDescription="Esta página é dedicada aos estudantes de Ciências da Natureza do Ensino Fundamental II (anos finais). Aqui você encontrará vídeos relacionados aos conteúdos básicos do 6º ao 9º ano, subdivididos em Unidades Temáticas conforme a Base Nacional Curricular Comum (BNCC). Bons estudos!"
+                videoDescription="/"
               />
               <Carousel
                 ignoreFirstVideo
